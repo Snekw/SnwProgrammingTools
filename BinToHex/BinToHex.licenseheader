@@ -1,4 +1,6 @@
-﻿#region License
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+#region License
 /**
  * BinToHex, convert between binary and hex.
  * Copyright (C) 2017  Ilkka Kuosmanen
@@ -17,25 +19,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 #endregion
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Windows.Forms;
-
-namespace BinToHex
-{
-    static class Program
-    {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
-        [STAThread]
-        static void Main()
-        {
-            Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-        }
-    }
-}
+extensions:  .xml .config .xsd
+<!--
+Copyright (C) 2017 Ilkka Kuosmanen
+-->
