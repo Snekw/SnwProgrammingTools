@@ -2,7 +2,7 @@
 extensions: .cs .cpp .h
 #region License
 /**
- * BinToHex, convert between binary and hex.
+ * I2CScriptCreator, convert between binary and hex.
  * Copyright (C) 2017  Ilkka Kuosmanen
  *
  * This program is free software: you can redistribute it and/or modify
