@@ -1,6 +1,8 @@
-# Snekw's programming tools
+## Snekw's programming tools
 
-## Programs
+# Not maintained
+
+### Programs
 
 Name | Status
 -----|-------
